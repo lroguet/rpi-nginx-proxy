@@ -13,6 +13,12 @@ See [Nginx reverse proxy, Docker and a Raspberry Pi](https://fourteenislands.io/
 $ docker run -d -p 80:80 -v /var/run/docker.sock:/tmp/docker.sock:ro lroguet/rpi-nginx-proxy
 ```
 
-## Resources
+## Show some love
+If you find `lroguet/rpi-nginx-proxy` useful please consider making a donation.
+
+Bitcoin (BTC). `392rfMkkcT151X9gyaomwg51jQhQePjhJn`   
+Ethereum (ETH). `0x4c1df38371D280Ab9706719875413ae9944D5a50`
+
+## Links
 * [Docker Hub](https://hub.docker.com/r/lroguet/rpi-nginx-proxy/)
 * [In action](https://fourteenislands.io/nginx-reverse-proxy-docker-and-a-raspberry-pi/)
