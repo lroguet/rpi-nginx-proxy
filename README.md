@@ -6,7 +6,7 @@
 ## Description
 lroguet/rpi-nginx-proxy sets up a container running NGINX and [docker-gen](https://github.com/jwilder/docker-gen). docker-gen generates reverse proxy configurations for NGINX and reloads NGINX when containers are started and stopped. lroguet/rpi-nginx-proxy is a **Raspberry Pi** compatible version of [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy).
 
-See [Nginx reverse proxy, Docker and a Raspberry Pi](https://fourteenislands.io/nginx-reverse-proxy-docker-and-a-raspberry-pi/) for a more detailed explanation.
+See [Nginx reverse proxy, Docker and a Raspberry Pi](https://fourteenislands.io/2016/04/nginx-reverse-proxy-docker-and-a-raspberry-pi/) for a more detailed explanation.
 
 ## Usage
 ```
@@ -21,4 +21,4 @@ Ethereum (ETH). `0x5BbaAb38Be768F281Bc08Ee380735FC5C8cc5CD0`
 
 ## Links
 * [Docker Hub](https://hub.docker.com/r/lroguet/rpi-nginx-proxy/)
-* [In action](https://fourteenislands.io/nginx-reverse-proxy-docker-and-a-raspberry-pi/)
+* [In action](https://fourteenislands.io/2016/04/nginx-reverse-proxy-docker-and-a-raspberry-pi/)
